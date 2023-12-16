@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://quizback-lnif.onrender.com',
+  baseURL: 'http://localhost:3001/api',
   timeout: 5000,
 });
 
