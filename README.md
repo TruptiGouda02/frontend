@@ -1,8 +1,5 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+-From given repository of Front end and backend download files separately in separate folder
+-in backend folder, from terminal run 'npm install' command 
+-in server.js , in mongoose.connect('your mongo string',{}) enter your mongoserver url
+-if any error arises when running front end code, run npm install command from frontend folder 
+-if any error occurs then check console and kindly change those urls based on your local computer
