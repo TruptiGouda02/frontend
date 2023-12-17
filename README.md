@@ -12,3 +12,5 @@
 -if any error arises when running front end code, run npm install command from frontend folder 
 
 -if any error occurs then check console and kindly change those urls based on your local computer
+
+- Note : If unable to locally run due to internal errors , I have provided Video file of Screen record(Video is just a screen record of how quiz app works from login, register to leaderboard) of our Quiz App in backend repository . kindly download it and view for a refernce .
